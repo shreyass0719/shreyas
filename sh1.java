@@ -1,10 +1,10 @@
 public class abc{
-public static void main(string arg[])
+public static void main(String arg[])
 {
    int a=10;
    int b=20;
    int ans=a+b;
-   system.out.println(ans);
+   System.out.println(ans);
 }
 } 
  
